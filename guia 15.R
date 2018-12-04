@@ -74,7 +74,10 @@ pop <- pop %>% rename(pop1992= 'Población (1992)',
 
 
 
-
+##hola probando rjsdvdfvckdffvlcsdfvjc
+ 
+ 
+ sfsgfsdgs
 
 
 
